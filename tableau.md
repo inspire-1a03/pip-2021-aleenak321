@@ -16,7 +16,7 @@ nav_order: 3
 
 
 #### Summary
-<!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
+The current state of the vaccination rollout among the provinces and territories is quite personally pleasant to view. It seems as though majority of Canadians are willing to receive the vaccine, and it is notable that the Northern territories have a higher vaccine rollout rate than the Southern provinces.
 
 
 
