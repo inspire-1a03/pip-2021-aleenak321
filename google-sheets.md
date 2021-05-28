@@ -45,12 +45,13 @@ Generally, all provinces are increasing exponentially in terms of vaccination ra
 
 
 #### Summary
-<!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
+Mobility across the country has only a little around the beginning of the pandemic, but visits to parks shows a spike and then decreases to baseline along all the other trends, only to spike again after May 2021. This can be explained through the vaccination rollout rate; the more citizens are getting vaccinated, the safer they feel to return to parks and other areas again.
 
 ## Final reflection
 > What inferences can you make from the data you have explored and visualized? 
 > What questions still exist about the trends and the data? What new questions has this process generated? 
 > What additional information would you like to help answer these questions? 
 
-<!-- Write a short response below-->
+
+Some inferences I can make is that in general, Canada has taken the COVID-19 pandemic quite seriously. This is evident in my “Tracking Canada’s COVID-19 Cases, Hospitalizations, and Fatalities” chart, where, around May 1st 2021, we see a drop in fatalities and hospitalizations though cases continue to increase. I can infer that though the spread is relevant, more and more people are getting vaccinated and not needing to visit the hospital. Also, the vaccination rates have been increasing almost exponentially for all provinces, as shown in my timeline chart. Lastly, a decrease in the amount of people visiting the parks is evident in my Mobility chart. Some questions that remain are “What specific population of Canada are the outliers?” and “Which province is falling most behind in vaccinations?” I can answer these questions if I have information on the population of Canada that does not believe in COVID vaccines, specifying what age range that population is. The second question may be answered with my timeline chart.
 
