@@ -31,7 +31,7 @@ As the number of people getting tested per 100 people increases, so does the amo
 > Q3: How do vaccination rates over time compare between all provinces and territories? 
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTs84uL2IDdjse7Lf4nIKGGYCH5byP33jJxoMpY6zH4mrfmow1KADTlZ2ebXNUIECI8xbHK7uerm_hf/pubhtml?gid=741715798&amp;single=true&amp;widget=true&amp;headers=false"></iframe> 
-
+ 
 
 #### Summary
 Generally, all provinces are increasing exponentially in terms of vaccination rates. Though, it is noted that Quebec and Manitoba most closely resemble an exponential pattern, whereas the other provinces are nearly increasing logarithmically. This may be because the cases in Quebec, and potentially Manitoba, are some of the worst of the pandemic; thus allowing for a quick and desperate vaccination rollout.
