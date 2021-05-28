@@ -13,7 +13,7 @@ nav_order: 2
 
 
 #### Summary
-<!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
+The three trends shown are synchronized quite well with each other in correspondance to the pandemic's three waves, showing evident spikes for cases though fatalities and hospitalizations decrease soon after. This could be explained with the fact that hospitals continue to increase in capacity, or as cases increase, more people are getting vaccinated, thus decreasing the spread of the vaccine.
 
 ---
 
