@@ -30,7 +30,7 @@ As the number of people getting tested per 100 people increases, so does the amo
 ## 3. Vaccination rates across provinces and territories
 > Q3: How do vaccination rates over time compare between all provinces and territories? 
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTs84uL2IDdjse7Lf4nIKGGYCH5byP33jJxoMpY6zH4mrfmow1KADTlZ2ebXNUIECI8xbHK7uerm_hf/pubhtml?gid=741715798&amp;single=true&amp;widget=true&amp;headers=false"></iframe> 
+<iframe width="600" height="494" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTs84uL2IDdjse7Lf4nIKGGYCH5byP33jJxoMpY6zH4mrfmow1KADTlZ2ebXNUIECI8xbHK7uerm_hf/pubchart?oid=790917824&amp;format=interactive"></iframe>
  
 
 #### Summary
