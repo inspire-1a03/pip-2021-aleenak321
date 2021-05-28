@@ -23,7 +23,7 @@ The three trends shown are synchronized quite well with each other in correspond
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTs84uL2IDdjse7Lf4nIKGGYCH5byP33jJxoMpY6zH4mrfmow1KADTlZ2ebXNUIECI8xbHK7uerm_hf/pubchart?oid=400368661&amp;format=interactive"></iframe> 
 
 #### Summary
-<!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
+As the number of people getting tested per 100 people increases, so does the amount of vaccinations per 100 people. Though it is important to note that the amount of people getting vaccinated started only a little later on throughout the pandemic; during 2021. Both variables are increasing proportionately.
 
 ---
 
@@ -34,7 +34,7 @@ The three trends shown are synchronized quite well with each other in correspond
 
 
 #### Summary
-<!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
+Generally, all provinces are increasing exponentially in terms of vaccination rates. Though, it is noted that Quebec and Manitoba most closely resemble an exponential pattern, whereas the other provinces are nearly increasing logarithmically. This may be because the cases in Quebec, and potentially Manitoba, are some of the worst of the pandemic; thus allowing for a quick and desperate vaccination rollout.
 
 ---
 
