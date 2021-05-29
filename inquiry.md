@@ -15,7 +15,7 @@ nav_order: 4
 
 #### Summary
 
-
+Out of the provinces I have travelled to, it seems as though they all follow generally the same trend of heavily decreasing visits to groceries and pharmacies during the beginning of the three waves, but begin to increase visitations in May of 2021. This could be because of vaccination rollout, causing people to visit pharmacies more often. I find it interesting that Alberta has the average highest amount of visits, but unsurprised that Quebec has the lowest since Quebec's situation was dire during the pandemic.
 
 ---
 
