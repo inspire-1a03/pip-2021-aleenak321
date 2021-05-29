@@ -21,8 +21,10 @@ Out of the provinces I have travelled to, it seems as though they all follow gen
 
 ## 2. Inquiry 2
 
-> Q2: Out of all the provinces I have visited, I wonder which ones provided the highest and lowest vaccine rollout?
+> Q2: Out of all the provinces, I wonder which ones provided the highest and lowest vaccine rollout?
 <!-- Paste your embed code for your figure below-->
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/totalvax/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '650' scrolling='no'></iframe>
+
 
 #### Summary
 <!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
