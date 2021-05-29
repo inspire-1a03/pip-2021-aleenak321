@@ -34,7 +34,7 @@ As the number of people getting tested per 100 people increases, so does the amo
 
 
 #### Summary
-Generally, all provinces are increasing exponentially in terms of vaccination rates. Though, it is noted that Quebec and Manitoba most closely resemble an exponential pattern, whereas the other provinces are nearly increasing logarithmically. This may be because the cases in Quebec, and potentially Manitoba, are some of the worst of the pandemic; thus allowing for a quick and desperate vaccination rollout.
+Generally, all provinces are increasing exponentially in terms of vaccination rates. Though, it is noted that Yukon and Manitoba most closely resemble an exponential pattern, whereas the other provinces are nearly increasing logarithmically. This may be because the cases in Quebec, and potentially Yukon, are some of the worst of the pandemic; thus allowing for a quick and desperate vaccination rollout.
 
 ---
 
