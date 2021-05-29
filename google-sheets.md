@@ -45,7 +45,7 @@ Generally, all provinces are increasing exponentially in terms of vaccination ra
 
 
 #### Summary
-Mobility across the country has only a little around the beginning of the pandemic, but visits to parks shows a spike and then decreases to baseline along all the other trends, only to spike again after May 2021. This can be explained through the vaccination rollout rate; the more citizens are getting vaccinated, the safer they feel to return to parks and other areas again.
+Mobility across the country has only changed a little around the beginning of the pandemic, but visits to parks shows a spike and then decreases to baseline along all the other trends, only to spike again after May 2021. This can be explained through the vaccination rollout rate; the more citizens are getting vaccinated, the safer they feel to return to parks and other areas again.
 
 ## Final reflection
 > What inferences can you make from the data you have explored and visualized? 
