@@ -21,8 +21,7 @@ Out of the provinces I have travelled to, it seems as though they all follow gen
 
 ## 2. Inquiry 2
 
-> Q2: *enter your question here*
-
+> Q2: Out of all the provinces I have visited, I wonder which ones provided the highest and lowest vaccine rollout?
 <!-- Paste your embed code for your figure below-->
 
 #### Summary
@@ -34,8 +33,7 @@ Out of the provinces I have travelled to, it seems as though they all follow gen
 
 ## 3. Inquiry 3
 
-> Q3: *enter your question here*
-
+> Q3: 
 <!-- Paste your embed code for your figure below-->
 
 #### Summary
