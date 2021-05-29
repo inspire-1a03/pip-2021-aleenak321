@@ -61,6 +61,6 @@ In regards to provinces I have personally been to, how are the visitations among
 
 I can use these two datasets together by extracting my data that I already have on Google Sheets, and visualizing it onto Tableau to understand and formulate answers to my rough questions.
 
-
+Next is my [Self-Inquiry!](https://inspire-1a03.github.io/pip-2021-aleenak321/inquiry.html)
 
 
