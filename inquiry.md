@@ -41,3 +41,5 @@ From my chloropleth map, I can easily distinguish the fact that Ontario holds th
 
 #### Summary
 I am astonished at the fact that Ontario followed the average trend for the rest of the country, given that Ontario is Canada's most populated province. I find it relieving that there are drops in visitations to workplaces in correlation to the three waves, yet it is also alarming because this chart may reflect a serious concern as employment rate continues to drop, and as Canadians continue to struggle with going back to work. It is also troubling to see that Ontario is doing slightly worse than the average around June 1, 2021, though this might be due to high vaccination count.
+
+Go back to my [Home.](https://inspire-1a03.github.io/pip-2021-aleenak321/)
