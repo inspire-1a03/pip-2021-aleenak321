@@ -21,22 +21,23 @@ Out of the provinces I have travelled to, it seems as though they all follow gen
 
 ## 2. Inquiry 2
 
-> Q2: Out of all the provinces, I wonder which ones provided the highest and lowest vaccine rollout?
+> Q2: Out of all the provinces, I wonder which ones have the greatest and lowest amount of total vaccines. What could this mean?
 <!-- Paste your embed code for your figure below-->
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/totalvax/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '650' scrolling='no'></iframe>
 
 
 #### Summary
-<!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
-
+From my chloropleth map, I can easily distinguish the fact that Ontario holds the highest amount of vaccines, with a total of 7,735,149. The lowest amount is 30,824, which is possessed by Nunavut. With this information alone, I can infer that Ontario might have a higher amount of cases than the other provinces, while Nunavut may have the least.
 
 ---
 
 
 ## 3. Inquiry 3
 
-> Q3: 
-<!-- Paste your embed code for your figure below-->
+> Q3: How does the Ontarion visitation rate to workplaces compare and contrast to the average during the pandemic?
+
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/ontariosworkplacechange/Sheet1?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '650' scrolling='no'></iframe>
+
 
 #### Summary
-<!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
+I am astonished at the fact that Ontario followed the average trend for the rest of the country, given that Ontario is Canada's most populated province. I find it relieving that there are drops in visitations to workplaces in correlation to the three waves, yet it is also alarming because this chart may reflect a serious concern as employment rate continues to drop, and as Canadians continue to struggle with going back to work. It is also troubling to see that Ontario is doing slightly worse than the average around June 1, 2021, though this might be due to high vaccination count.
